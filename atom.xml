@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>麦的博客</title>
+  <title>孙亮的博客</title>
   
-  
+  <subtitle>我孙亮是傻逼，我一天吃三斤奥里给</subtitle>
   <link href="http://maicptbnb.github.io/atom.xml" rel="self"/>
   
   <link href="http://maicptbnb.github.io/"/>
-  <updated>2022-07-02T07:20:23.704Z</updated>
+  <updated>2022-07-02T11:01:38.233Z</updated>
   <id>http://maicptbnb.github.io/</id>
   
   <author>
@@ -15,6 +15,23 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>今天是个好日子</title>
+    <link href="http://maicptbnb.github.io/2022/07/02/%E4%BB%8A%E5%A4%A9%E6%98%AF%E4%B8%AA%E5%A5%BD%E6%97%A5%E5%AD%90/"/>
+    <id>http://maicptbnb.github.io/2022/07/02/%E4%BB%8A%E5%A4%A9%E6%98%AF%E4%B8%AA%E5%A5%BD%E6%97%A5%E5%AD%90/</id>
+    <published>2022-07-02T11:00:07.000Z</published>
+    <updated>2022-07-02T11:01:38.233Z</updated>
+    
+    
+    
+    
+    <category term="生活" scheme="http://maicptbnb.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="开心" scheme="http://maicptbnb.github.io/tags/%E5%BC%80%E5%BF%83/"/>
+    
+  </entry>
   
   <entry>
     <title>修改提交者信息</title>
