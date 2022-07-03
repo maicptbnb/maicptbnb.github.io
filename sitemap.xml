@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://maicptbnb.github.io/about/index.html</loc>
+    
+    <lastmod>2022-07-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://maicptbnb.github.io/2022/07/02/hello-world/</loc>
     
     <lastmod>2022-07-02</lastmod>
@@ -67,7 +76,7 @@
 
   <url>
     <loc>http://maicptbnb.github.io/</loc>
-    <lastmod>2022-07-02</lastmod>
+    <lastmod>2022-07-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -75,7 +84,7 @@
   
   <url>
     <loc>http://maicptbnb.github.io/tags/%E5%BC%80%E5%BF%83/</loc>
-    <lastmod>2022-07-02</lastmod>
+    <lastmod>2022-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -84,7 +93,7 @@
   
   <url>
     <loc>http://maicptbnb.github.io/categories/%E7%94%9F%E6%B4%BB/</loc>
-    <lastmod>2022-07-02</lastmod>
+    <lastmod>2022-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
